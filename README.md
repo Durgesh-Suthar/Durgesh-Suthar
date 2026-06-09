@@ -52,8 +52,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Durgesh-Suthar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh-Suthar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Durgesh-Suthar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh-Suthar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" />
 </div>
 
 <br>
